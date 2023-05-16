@@ -1,7 +1,8 @@
 # My first solo README... 
 
 ## Subheading aka Introduction
-* n/a
+* This text is an update
+* Hello World!
 
 ## Business Understanding
-* n/a
+* This text is also an update
